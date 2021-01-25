@@ -1,0 +1,48 @@
+* {
+  margin: 30px;
+  padding: 10px;
+}
+
+.images {
+  display: block;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.paragraph {
+  text-align: center;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+
+#main {
+  background-color: #000000;
+
+}
+
+#title{
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bolder;
+  color: #FFFFFF;
+  }
+
+li {
+  text-align: justify;
+  font-size: 20px;
+  color: #FFFFFF;
+  padding: 0;
+  margin: 10px;
+}
+
+
+
+
+
+
+
+
+
